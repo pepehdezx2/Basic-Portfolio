@@ -1,0 +1,34 @@
+#bgx{
+	background-color: #10B5A5;
+	color: #ffff;
+	text-align: center;
+	width: 60%;
+	float: left;
+	font-size: 35px;
+}
+
+#cc{
+  	color: #10B5A5;
+  }
+
+body {
+    margin: auto;
+    padding: 20px;
+    margin-bottom: 20px;
+    font-size: 30px; 
+  }
+  
+  header {
+    padding: 20px;
+    margin-bottom: 20px;
+    color: #333;
+    background: #ccc;
+  }
+
+  #list{
+  	float: left;
+  	list-style-type: none;
+  	text-align: right;
+  	font-size: 15px;
+  	width: 13%;
+  }
