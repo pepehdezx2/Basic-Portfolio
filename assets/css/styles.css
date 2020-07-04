@@ -1,4 +1,5 @@
 #bgx{
+  list-style-type: none;
 	background-color: #10B5A5;
 	color: #ffff;
 	text-align: center;
@@ -9,6 +10,7 @@
 
 #cc{
   	color: #10B5A5;
+    margin-top: 10px;
   }
 
 body {
@@ -25,7 +27,51 @@ body {
     background: #ccc;
   }
 
+  #box{
+    background-color: #ffff;
+    width: 960px;
+    height: 580px;
+    opacity: 75%;
+    margin: auto;
+  }
+
+  #bar{
+    width:944px;
+    margin:auto;
+  }
+
+  #picture{
+    float: left;
+    margin-left: 15px;
+    margin-right: 15px;
+  }
+
+  #text{
+    font-size: 24px;
+  }
+
+  #container{
+    background-color: #aaaa;
+    width: 960px;
+    height: 40px;
+    opacity: 75%;
+    margin: auto;
+  }
+
+  #cp{
+    width:1000px;
+    height: 30px;
+    background-color: #0000;
+  }
+
+  #footer{
+    text-align: center;
+    color: #ffff;
+    font-size: 20px;
+  }
+
   #list{
+    margin-top: 15px;
   	float: left;
   	list-style-type: none;
   	text-align: right;
