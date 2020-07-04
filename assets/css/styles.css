@@ -35,6 +35,11 @@ body {
     margin: auto;
   }
 
+  #desc{
+    font-size: 24px;
+    color: #ffff;
+  }
+
   #bar{
     width:944px;
     margin:auto;
