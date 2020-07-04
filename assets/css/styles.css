@@ -50,6 +50,17 @@ body {
     font-size: 24px;
   }
 
+  #forms{
+    background-image: url("forms.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    width: 400px;
+    height: 450px;
+    opacity: 60%;
+    margin: auto;
+  }
+
   #container{
     background-color: #aaaa;
     width: 960px;
@@ -59,9 +70,9 @@ body {
   }
 
   #cp{
-    width:1000px;
-    height: 30px;
-    background-color: #0000;
+    width:auto;
+    height:30px;
+    background-color:black;
   }
 
   #footer{
