@@ -1,4 +1,4 @@
-#bgx{
+.bgx{
   list-style-type: none;
 	background-color: #10B5A5;
 	color: #ffff;
@@ -8,7 +8,7 @@
 	font-size: 35px;
 }
 
-#cc{
+.cc{
   	color: #10B5A5;
     margin-top: 10px;
   }
@@ -27,7 +27,7 @@ body {
     background: #ccc;
   }
 
-  #box{
+.box{
     background-color: #ffff;
     width: 960px;
     height: 580px;
@@ -35,27 +35,27 @@ body {
     margin: auto;
   }
 
-  #desc{
+.desc{
     font-size: 24px;
     color: #ffff;
   }
 
-  #bar{
+  .bar{
     width:944px;
     margin:auto;
   }
 
-  #picture{
+  .picture{
     float: left;
     margin-left: 15px;
     margin-right: 15px;
   }
 
-  #text{
+  .text{
     font-size: 24px;
   }
 
-  #forms{
+  .forms{
     background-image: url("forms.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -66,7 +66,7 @@ body {
     margin: auto;
   }
 
-  #container{
+  .container{
     background-color: #aaaa;
     width: 960px;
     height: 40px;
@@ -74,19 +74,19 @@ body {
     margin: auto;
   }
 
-  #cp{
+  .cp{
     width:auto;
     height:30px;
     background-color:black;
   }
 
-  #footer{
+  .footer{
     text-align: center;
     color: #ffff;
     font-size: 20px;
   }
 
-  #list{
+  .list{
     margin-top: 15px;
   	float: left;
   	list-style-type: none;
